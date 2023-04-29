@@ -1,5 +1,5 @@
 ### Hola 👋, soy Javier Arteaga Gonzales 
-[![Follow me on GitHub](https://img.shields.io/github/followers/javierstamina?label=Follow&style=social)](https://github.com/javierstamina)
+[![Follow me on GitHub](https://img.shields.io/github/followers/javierstamina?label=Follow&style=social)](https://github.com/javierarteagagonzales)
 
 <p>
 <a href="https://twitter.com/Javier_Argo" target="_blank">
@@ -64,7 +64,7 @@
 Y alguna más...
 
 
-![Javier Arteaga Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=javierstamina&layout=compact&theme=radical)
+![Javier Arteaga Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=javierarteagagonzales&layout=compact&theme=radical)
 
 <!-- Idiomas -->
 ### IDIOMAS:
@@ -106,21 +106,6 @@ Y alguna más...
      <a href="https://www.credly.com/users/javier-alejandro-arteaga-gonzales/badges" target="_blank" style="background-color: #007bff; color: #fff; padding: 10px 20px; border-radius: 5px; 
    text-decoration: none; font-size: 18px; transition: background-color 0.3s ease;">Ver más insignias en Credly</a>
 </div>
-  <!-- Agrega tantos badges como quieras -->
+
 </div>
 
-
-<!--
-**javierstamina/javierstamina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
