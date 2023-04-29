@@ -66,6 +66,8 @@ Y alguna más...
 
 ![Javier Arteaga Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=javierarteagagonzales&layout=compact&theme=radical)
 
+</br>
+
 <!-- Idiomas -->
 ### IDIOMAS:
 
