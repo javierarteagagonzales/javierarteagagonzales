@@ -20,7 +20,7 @@
    
 - 🔭 Front End Developer.
 - 🔭 Estoy trabajando de forma autónoma Desarrollando web's y en SEO/SEM.
-- 🌱 Actualmente estoy aprendiendo Qwik.
+- 🌱 Actualmente estoy desarrollando los labs en línea de Google Cloud Skills Boost, puede ver mis insignias en: <a href="https://www.cloudskillsboost.google/public_profiles/a31ed379-366a-4847-b189-d335ee2e4fad" target="_blank"> Insignias </a>.
 - 💬 Especialista en SEO (Posicionamiento web en buscadores Google, bing, etc).
 - 📫 Contáctame por mi Linkedin: <i class="fab fa-linkedin"> https://www.linkedin.com/in/javierargo/</i>
 
