@@ -16,9 +16,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "generated"
-          git push
+          git push https://github-actions:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/${{ github.repository }}.git
