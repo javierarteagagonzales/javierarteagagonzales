@@ -23,4 +23,4 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "generated"
-          git push https://github.com/${{ github.repository_owner }}/${{ github.repository }} HEAD:main
+          git push https://github.com/${{ github.repository_owner }}/${{ github.repository }}.git HEAD:main
