@@ -1,4 +1,4 @@
-### Hola 👋, soy Javier Arteaga Gonzales 
+### Hola 👋, soy Javier
 [INGLÉS](./README-en.md) 
 <br/>
 [![Follow me on GitHub](https://img.shields.io/github/followers/javierstamina?label=Follow&style=social)](https://github.com/javierarteagagonzales)
