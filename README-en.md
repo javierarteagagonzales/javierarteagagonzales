@@ -6,10 +6,11 @@
 </p>
 <br/>
 <p>
-🔭 FullStack Developer.
-🔭 I am freelancing in web development and SEO/SEM.
-🌱 I am currently developing Google Cloud Skills Boost online labs, you can see my badges at: Badges .
-💬 SEO Specialist (Search Engine Optimization in Google, bing, etc).
+
+- 🔭 FullStack Developer.
+- 🔭 I am freelancing in web development and SEO/SEM.
+- 🌱 I am currently developing Google Cloud Skills Boost online labs, you can see my badges at: Badges .
+- 💬 SEO Specialist (Search Engine Optimization in Google, bing, etc).
 </p>
 
 ### ✍️ Dev Quote of the Day
@@ -50,3 +51,5 @@
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-blue.svg?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 </br>
 And some more...
+
+![Javier Arteaga Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=javierarteagagonzales&layout=compact&theme=radical)
