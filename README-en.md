@@ -53,3 +53,13 @@
 And some more...
 
 ![Javier Arteaga Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=javierarteagagonzales&layout=compact&theme=radical)
+
+
+
+## Certificates
+| Repository | Links |
+| ----------- | ----------- |
+|Certificates|[![Certificados](https://img.shields.io/badge/Repo%201-Visit-blue?style=for-the-badge&logo=github)](https://github.com/javierstamina/Certificados)|
+|Udemy's Certificates|[![Udemy](https://img.shields.io/badge/Repo%202-Visit-blue?style=for-the-badge&logo=github)](https://github.com/javierstamina/Certificados-udemy)|
+|Scrum|[![Scrum](https://img.shields.io/badge/Repo%203-Visit-blue?style=for-the-badge&logo=github)](https://github.com/javierstamina/scrum)|
+|SEMRush|[![SEMRush](https://img.shields.io/badge/Repo%204-Visit-blue?style=for-the-badge&logo=github)](https://github.com/javierstamina/SEMRush)|
